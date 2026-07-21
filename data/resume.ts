@@ -34,7 +34,7 @@ export const education = {
   school: "Air University, Islamabad",
   degree: "BS Artificial Intelligence",
   period: "2022 – 2026",
-  cgpa: "3.1",
+  cgpa: "3.2",
   coursework: [
     "Machine Learning",
     "Deep Learning",
